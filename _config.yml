@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A (semi)physical home for ideas on neuroscience, computers, and the future.
 
 baseurl: "/BasedInCognition" # the subpath of your site, e.g. /blog
-url: "https://drewwas.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://drewwas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
