@@ -6,4 +6,3 @@ layout: home
 author: Andrew Wasielewski
 ---
 
-{% include author-bio.html name: page.author %}
