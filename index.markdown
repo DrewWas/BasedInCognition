@@ -7,3 +7,4 @@ author: Ellington Wheeler
 ---
 
 {% include author-bio.html name: page.author %}
+
