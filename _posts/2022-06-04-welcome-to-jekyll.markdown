@@ -13,6 +13,8 @@ In computing, a virtual machine is a virtual computer running inside another com
 
 - HOW HOW HOW 
 
+- Connect to how humans function as agent and robot and, by using virtual brains, we could live forever. I want to make a subsection of "Applications" to put this under
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
