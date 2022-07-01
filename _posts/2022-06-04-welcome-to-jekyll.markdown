@@ -15,7 +15,27 @@ In computing, a virtual machine is a virtual computer running inside another com
 
 - Connect to how humans function as agent and robot and, by using virtual brains, we could live forever. I want to make a subsection of "Applications" to put this under
 
+- Basically just a brain in a VAT, from a more modern perspective
+
 * FUCK SP!!!
+
+## Segments (questions to answer)
+
+# What is a virtual machine (in computing)?
+
+# Where, When, and Why are virtual machines used?
+
+# Connecting this idea to brains under the framework of neurotech
+
+# Uses for virtual brains in neurotech (Applications)
+    - Testing new drugs
+
+# How - approaches to creating virtual brains
+    - Stem cells
+
+# Connecting these brains to our own
+    - Counterargument: at this point why grown bio based brains? 
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
