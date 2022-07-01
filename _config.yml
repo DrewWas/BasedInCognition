@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+#Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -23,7 +23,7 @@ title: Based In Cognition.
 author: By Drew Wasielewski
 
 description: >- # this means to ignore newlines until "baseurl:"
-  A (semi)physical home for ideas on neuroscience, computers, and the future.
+  Stuff I think about for more than 5 seconds
 
 baseurl: "/BasedInCognition" # the subpath of your site, e.g. /blog
 url: "https://drewwas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
